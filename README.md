@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>AmonLeader</b>, a passionate Fullstack Developer and Wix Expert
+<p>Welcome to my page! </br> I'm <b>AmonLeader</b>, a passionate Fullstack Developer and Wix Expert,
 I help businesses and investors create high-impact digital solutions in real estate, Web3, and marketing. My skills include luxury real estate branding, tokenized assets, SaaS development, digital marketing (LinkedIn, Facebook, TikTok), automation tools, and investor outreach. I combine technical know-how (Wix, React, JavaScript, APIs, AI tools) with business strategy to deliver growth-focused results..</p>
 
 <h3>Things I code with</h3>
